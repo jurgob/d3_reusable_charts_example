@@ -1,5 +1,5 @@
-# d3_reusable_charts_example
-d3  reusablenet charts example
+# d3 reusable charts example
+an examle of d3 reusablen charts.
 
 #live example
 
